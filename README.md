@@ -1,6 +1,4 @@
+##Welcome to the Git Repo for Tiles Demo!
 
-Hi
-
-We are currently uploading our Unity project to this repo but due to its size, it is taking a while to upload.
-
-Apologies for this but it will be up soon!
+This repo contains our script files which were used to procedurally generate the game. For a fully executable Unity project, please follow this link the project on Google Drive:
+https://drive.google.com/drive/folders/1ujcTWun0uWI1y6A8I-tJiyraixlazerX?usp=sharing
